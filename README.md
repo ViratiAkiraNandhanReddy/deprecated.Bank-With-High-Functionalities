@@ -22,7 +22,7 @@
 
 Welcome to **Bank-With-High-Functionalities**, a Python-based GUI banking system that provides an intuitive and feature-rich platform for managing financial operations. With functionalities like account management, secure transactions, loan processing, and transaction history, this project offers a seamless, interactive, and efficient banking experience.
 
-![Banner](https://github.com/ViratiAkiraNandhanReddy/--deprecated.Bank-With-High-Functionalities/blob/main/Bank_Package/Visual%20Data/Banner%20Image.jpg)
+![Banner](https://github.com/ViratiAkiraNandhanReddy/deprecated.Bank-With-High-Functionalities/blob/main/Bank_Package/Visual%20Data/Banner%20Image.jpg)
 
 ---
 
